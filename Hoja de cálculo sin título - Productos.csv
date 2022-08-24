@@ -1,0 +1,40 @@
+Producto,Precio,Comercio,Fuente,Usos,Categorias
+Arroz,€1.12,DIA ,Amazon,10,Fruta
+Nata,€1.84,DIA ,Amazon,6,Condimiento
+Cebolla,€1.49,DIA ,Amazon,60,Condimiento
+Aceite,€4.50,DIA ,Amazon,60,Condimiento
+Leche Condensada,€2.19,DIA ,Amazon,60,Condimiento
+Lechuga,€0.89,DIA ,Amazon,14,Ensalada
+Zanahoria,€0.59,DIA ,Amazon,10,Ensalada
+Mozzarella,€1.80,DIA ,Amazon,4,Condimiento
+Arroz Largo,€1.18,DIA ,Amazon,10,Guarnición
+Pimiento Rojo,€2.89,DIA ,Amazon,4,Guarnición
+Huevos 12u,€2.26,DIA ,Amazon,3,Condimiento
+Aguacate,€3.69,DIA ,Amazon,6,Ensalada
+Pizza (otra),€2.46,DIA ,Maracena,1,Plato Principal
+Pizza Jamon,€2.29,DIA ,Maracena,1,Plato Principal
+Leche Entera,€0.79,DIA ,Amazon,10,Snack
+Papel Higiénico,€2.83,DIA ,Amazon,120,Extras
+Tortillas de trigo,€1.43,DIA ,Amazon,4,Acompañamiento
+Agua 8L,€0.88,DIA ,Amazon,1.5,Extras
+Huevos 24u,€3.75,DIA ,Amazon,6,Plato Principal
+Tomate Frito,€1.15,DIA ,Amazon,8,Acompañamiento
+Espaguetis,€1.23,DIA ,Amazon,8,Guarnición
+Macarrones,€1.23,DIA ,Amazon,6,Guarnición
+Platano de Canarias,€3.39,DIA ,Amazon,8,Fruta
+Manzana,€1.59,DIA ,Amazon,14,Fruta
+Melón,€2.25,DIA ,Amazon,6,Fruta
+Naranja,€4.99,DIA ,Amazon,30,Fruta
+Limon,€1.69,DIA ,Amazon,60,Condimiento
+Plátan Macho,€1.99,DIA ,Amazon,2,Acompañamiento
+Papas,€5.49,DIA ,Amazon,60,Guarnición
+Brócoli,€2.58,DIA ,Amazon,4,Guarnición
+Ajo,€1.99,DIA ,Amazon,60,Condimiento
+Berenjena,€1.89,DIA ,Amazon,4,Guarnición
+Lomo,€6.00,Carnicería,Maracena,6,Fruta
+Ternera,€8.00,Carnicería,Maracena,4,Fruta
+Pollo Entero,€8.00,Carnicería,Maracena,8,Fruta
+Tortilla,€2.35,DIA ,Maracena,2,Plato Principal
+Pan,€1.00,COVIRAN,Maracena,2,Acompañamiento
+Pasas,€1.25,DIA ,Maracena,60,Fruta
+Kiwi,€2.19,DIA ,Maracena,8,Fruta
