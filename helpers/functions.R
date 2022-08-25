@@ -42,6 +42,7 @@ sessionCheck <- function(input, output, session) {
       delay(3500, {runjs('Shiny.setInputValue("page", "login");')})
     }
   })
+  print('Session checked')
 }
 
 nuevaCuenta <- function(email, pass, nombre, apellidos, rol, afiliador = "") {
