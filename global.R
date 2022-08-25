@@ -7,8 +7,14 @@ library(jsonlite)
 library(readr)
 
 library(stringr)
-library(rlnag)
+library(rlang)
 library(lubridate)
+
+library(digest)
+
+globals <- list(
+  img = 'https://servicios.precisefuture.com/images/'
+)
 
 helpers <- dir('helpers')
 lapply(helpers, function(x)  tryCatch({source(paste0('helpers/', x))}, error = function(e) {print(paste0('Error en el Script ', x))}))
